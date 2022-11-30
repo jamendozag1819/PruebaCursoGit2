@@ -1,6 +1,6 @@
 #Comentario#
 #PARA IGNORAR ARCHIVOS ESPECIFICOS
-archivo_base.txt
+#archivo_base.txt
 #.gitignore
 #PARA IGNORAR DIRECTORIOS
 imagenes/
